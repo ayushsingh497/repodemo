@@ -1,4 +1,4 @@
 # repodemo
 just for demo 
 <br>
-Author - Ayush Singh
+Author - Ayush Singh Rajput
